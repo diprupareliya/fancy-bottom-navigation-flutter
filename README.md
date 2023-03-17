@@ -6,12 +6,7 @@ Flutter representation of a Travel App Concept i found in Uplabs.
 Star⭐ the repo if you like what you see😉.
 
 
-Images are from [Unsplash](https://unsplash.com)
-## 📸 ScreenShots
-
-<video controls>
-  <source src="demo/demo_1.mp4" type="video/mp4">
-</video>
+https://youtube.com/shorts/EUP_s7PFnus?feature=share
 
 
 ## ✨ Requirements
