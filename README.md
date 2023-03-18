@@ -6,8 +6,9 @@ Flutter representation of a Travel App Concept i found in Uplabs.
 Star⭐ the repo if you like what you see😉.
 
 
-https://youtube.com/shorts/EUP_s7PFnus?feature=share
+View Demo 📹
 
+https://user-images.githubusercontent.com/75715011/226086310-1a03702f-ac07-44e6-bd47-1579a4a6b2d8.mp4
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
